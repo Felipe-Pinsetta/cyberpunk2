@@ -1,0 +1,20 @@
+.elementor-kit-11{--e-global-color-primary:#831F8F;--e-global-color-secondary:#666666;--e-global-color-text:#333333;--e-global-color-accent:#831F8F;--e-global-color-3cccdeaf:#6EC1E4;--e-global-color-42ed6a8f:#54595F;--e-global-color-5978765f:#7A7A7A;--e-global-color-7bbd933c:#61CE70;--e-global-color-32c1fd8b:#4054B2;--e-global-color-50c49a24:#23A455;--e-global-color-50bd7660:#000;--e-global-color-136cf0b2:#FFF;--e-global-color-3eb4a204:#020101;--e-global-color-6948a211:#661371;--e-global-typography-primary-font-family:"Oswald";--e-global-typography-primary-font-size:28px;--e-global-typography-primary-font-weight:300;--e-global-typography-secondary-font-family:"Oswald";--e-global-typography-secondary-font-size:20px;--e-global-typography-secondary-font-weight:200;--e-global-typography-text-font-family:"Open Sans";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Open Sans";--e-global-typography-accent-font-size:14px;--e-global-typography-accent-font-weight:600;color:#333333;font-family:"Open Sans", Sans-serif;font-size:18px;font-weight:400;font-style:normal;text-decoration:none;line-height:1.5em;letter-spacing:0px;}.elementor-kit-11 p{margin-bottom:15px;}.elementor-kit-11 a{color:#831F8F;font-weight:bold;letter-spacing:-0.25px;}.elementor-kit-11 h1{font-family:"Oswald", Sans-serif;font-size:3.2em;font-weight:200;text-transform:uppercase;line-height:1.25em;}.elementor-kit-11 h2{font-family:"Oswald", Sans-serif;font-size:2.8em;font-weight:400;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:1.25em;letter-spacing:0px;}.elementor-kit-11 h3{font-family:"Oswald", Sans-serif;font-size:2.4em;font-weight:400;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:1.25em;letter-spacing:0px;}.elementor-kit-11 h4{font-family:"Oswald", Sans-serif;font-size:2em;font-weight:400;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:1.25em;letter-spacing:0px;}.elementor-kit-11 h5{font-family:"Oswald", Sans-serif;font-size:1.4em;font-weight:400;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:1.25em;letter-spacing:0px;}.elementor-kit-11 h6{font-size:1.2em;font-weight:400;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:1.25em;letter-spacing:0px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1170px;}.e-con{--container-max-width:1170px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-11 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.ocultar{
+overflow: hidden !important;
+}
+h1.entry-title{
+display:none;
+}
+.menu-layout{
+border-left: 2px solid rgba(255,255,255,0.25);
+border-right: 2px solid rgba(0,0,0,0.75);
+}
+.disabled{
+opacity: 0.25;
+}
+.disabled  *{
+cursor: not-allowed!important;
+user-select: none;
+}
+.site-header{
+    display: none;
+}/* End custom CSS */
